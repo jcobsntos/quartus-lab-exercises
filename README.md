@@ -5,7 +5,7 @@ Welcome to my Quartus VHDL laboratory repository! 🖥️✨ This repository con
 
 ## 📂 Lab Exercises Overview
 
-1️⃣ Lab Exercise 1: Labex
+### 1️⃣ Lab Exercise 1: Labex
 
 🔹 Description:
 
@@ -19,7 +19,7 @@ Basic digital design concepts and simulation steps.
 
 ✅ First simulation waveforms
 
-2️⃣ Lab Exercise #2: 2-to-1 Multiplexer
+### 2️⃣ Lab Exercise #2: 2-to-1 Multiplexer
 
 🔹 Description:
 
@@ -53,7 +53,7 @@ Assign inputs (SW17, SW0, SW1) and outputs (LEDR, LEDG) on the DE2 board.
 
 Compile, simulate, and verify waveform outputs.
 
-3️⃣ Lab Exercise #3: Three-Way Switch
+### 3️⃣ Lab Exercise #3: Three-Way Switch
 
 🔹 Description:
 
